@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://lucky.mtnsol.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
