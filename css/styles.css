@@ -2,22 +2,22 @@
 /* Color usage */
 /* $colorBase: $randomColor; */
 .svgLogoText {
-  fill: #ff5f2e; }
+  fill: #E71D36; }
 
 #service .service-item i {
-  color: #ff5f2e !important; }
+  color: #E71D36 !important; }
 
 #call-to-action:before {
-  background: #ff5f2e !important; }
+  background: #E71D36 !important; }
 
 #global-header:before {
-  background: linear-gradient(to left, #ff5f2e, #1f1c2c 70%) !important; }
+  background: linear-gradient(to left, #E71D36, #1f1c2c 70%) !important; }
 
 #slider:before {
-  background: linear-gradient(to left, #ff5f2e, #322e40) !important; }
+  background: linear-gradient(to left, #E71D36, #322e40) !important; }
 
 #global-header {
-  background: url("../images/headerimage7.jpg") no-repeat !important;
+  background: url("../images/headerimage3.jpg") no-repeat !important;
   background-size: cover !important;
   padding-top: 150px !important;
   padding-bottom: 107px !important;
@@ -25,7 +25,7 @@
   background-attachment: fixed !important; }
 
 #slider {
-  background: url("../images/headerimage7.jpg") no-repeat !important;
+  background: url("../images/headerimage3.jpg") no-repeat !important;
   background-size: cover !important;
   background-attachment: fixed !important;
   background-position: 10% 0% !important;
@@ -33,7 +33,7 @@
   position: relative !important; }
 
 #call-to-action {
-  background: url("../images/headerimage7.jpg") no-repeat !important;
+  background: url("../images/headerimage3.jpg") no-repeat !important;
   background-size: cover !important;
   background-attachment: fixed !important;
   padding: 70px 0px !important;
